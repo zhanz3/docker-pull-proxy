@@ -1,8 +1,2 @@
 langgenius/dify-api:0.6.11 crpi-tmg8756pkyxap0yg.cn-hongkong.personal.cr.aliyuncs.com/dockerdify/dify-api:0.6.11
-langgenius/dify-web:0.6.11 crpi-tmg8756pkyxap0yg.cn-hongkong.personal.cr.aliyuncs.com/dockerdify/dify-web:0.6.11
-postgres:15-alpine crpi-tmg8756pkyxap0yg.cn-hongkong.personal.cr.aliyuncs.com/dockerdify/postgres:15-alpine
-redis:6-alpine crpi-tmg8756pkyxap0yg.cn-hongkong.personal.cr.aliyuncs.com/dockerdify/redis:6-alpine
-semitechnologies/weaviate:1.19.0 crpi-tmg8756pkyxap0yg.cn-hongkong.personal.cr.aliyuncs.com/dockerdify/weaviate:1.19.0
-langgenius/dify-sandbox:0.2.1 crpi-tmg8756pkyxap0yg.cn-hongkong.personal.cr.aliyuncs.com/dockerdify/dify-sandbox:0.2.1
-ubuntu/squid:latest crpi-tmg8756pkyxap0yg.cn-hongkong.personal.cr.aliyuncs.com/dockerdify/squid:latest
-nginx:latest crpi-tmg8756pkyxap0yg.cn-hongkong.personal.cr.aliyuncs.com/dockerdify/nginx:latest
+

@@ -3,3 +3,4 @@ langgenius/dify-web:0.6.11 crpi-tmg8756pkyxap0yg.cn-hongkong.personal.cr.aliyunc
 postgres:15-alpine crpi-tmg8756pkyxap0yg.cn-hongkong.personal.cr.aliyuncs.com/dockerdify/postgres:15-alpine
 redis:6-alpine crpi-tmg8756pkyxap0yg.cn-hongkong.personal.cr.aliyuncs.com/dockerdify/redis:6-alpine
 semitechnologies/weaviate:1.19.0 crpi-tmg8756pkyxap0yg.cn-hongkong.personal.cr.aliyuncs.com/dockerdify/weaviate:1.19.0
+langgenius/dify-sandbox:0.2.1 crpi-tmg8756pkyxap0yg.cn-hongkong.personal.cr.aliyuncs.com/dockerdify/dify-sandbox:0.2.1

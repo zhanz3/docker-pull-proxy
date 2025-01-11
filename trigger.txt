@@ -1,2 +1,3 @@
 langgenius/dify-api:0.6.11 crpi-tmg8756pkyxap0yg.cn-hongkong.personal.cr.aliyuncs.com/dockerdify/dify-api:0.6.11
 langgenius/dify-web:0.6.11 crpi-tmg8756pkyxap0yg.cn-hongkong.personal.cr.aliyuncs.com/dockerdify/dify-web:0.6.11
+postgres:15-alpine crpi-tmg8756pkyxap0yg.cn-hongkong.personal.cr.aliyuncs.com/dockerdify/postgres:15-alpine

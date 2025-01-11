@@ -5,3 +5,4 @@ redis:6-alpine crpi-tmg8756pkyxap0yg.cn-hongkong.personal.cr.aliyuncs.com/docker
 semitechnologies/weaviate:1.19.0 crpi-tmg8756pkyxap0yg.cn-hongkong.personal.cr.aliyuncs.com/dockerdify/weaviate:1.19.0
 langgenius/dify-sandbox:0.2.1 crpi-tmg8756pkyxap0yg.cn-hongkong.personal.cr.aliyuncs.com/dockerdify/dify-sandbox:0.2.1
 ubuntu/squid:latest crpi-tmg8756pkyxap0yg.cn-hongkong.personal.cr.aliyuncs.com/dockerdify/squid:latest
+nginx:latest crpi-tmg8756pkyxap0yg.cn-hongkong.personal.cr.aliyuncs.com/dockerdify/nginx:latest
